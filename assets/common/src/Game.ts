@@ -11,7 +11,7 @@
 const {ccclass, property} = cc._decorator;
 
 import Util = require('./Util');
-import Player = require('../../diamond/src/Player');
+import Player = require('../../towerdefense/src/player/Player');
 import Share = require('./Share');
 import AdManager = require('./AdManager');
 import NetworkManager = require('./NetworkManager');
